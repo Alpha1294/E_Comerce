@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Top 1000 IMDB Analysis
+# E - Comerce Analysis
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="150"/>
@@ -41,3 +41,18 @@
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha1294&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🏅 About This project : Is using a database from kaggle of 2 months of data from a e comerce platform of more than 80 milions rows with 9 columns.
+- This project really teached me how many tables u can make from one and how much information you can get out of there, from totals visits or visitors to total visits per subcategory and much more.
+  ## General insights : - We have a mean of 380k visists daily,with a peak of 1 million and a minimum of 240k.
+  ![image](https://github.com/Alpha1294/E_Comerce/assets/117177567/a0ac17a8-c781-4f62-8712-5f151c645ab5)
+  - We get a mean of 247k unique visitors ,so not views ,but unique ids(of different people/devices
+  ![image](https://github.com/Alpha1294/E_Comerce/assets/117177567/ea03c022-a39f-4d88-8dd1-62d7dd82f018)
+
+- But the question arises, how many of those visits are actually trasnformed into a purchase, into money for the e comerce platform?On the left we get the percentage, so 0,08 would be a 8%
+-   
+## Customer Analysis
+
+
+
